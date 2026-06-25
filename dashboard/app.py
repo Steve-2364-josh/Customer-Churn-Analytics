@@ -21,7 +21,7 @@ st.title("🏦 Customer Segmentation & Churn Analytics")
 # LOAD DATA
 # =========================
 
-df = pd.read_csv("../data/processed/segmented_bank_data.csv")
+df = pd.read_csv("data/processed/segmented_bank_data.csv")
 
 # =========================
 # FILTERS
